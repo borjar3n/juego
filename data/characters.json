@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "pepe gonzáledfdz",
+    "energyLevel": 70,
+    "lifeExpectancy": "334"
+  },
+  {
+    "id": 2,
+    "name": "ramiro calle",
+    "energyLevel": 50,
+    "lifeExpectancy": "134"
+  },
+  {
+    "id": 3,
+    "name": "olga",
+    "energyLevel": 90,
+    "lifeExpectancy": "43"
+  },
+  {
+    "id": 4,
+    "name": "Supergaviota",
+    "energyLevel": 50,
+    "lifeExpectancy": "1000"
+  },
+  {
+    "id": 5,
+    "name": "empiezo a 10",
+    "energyLevel": 100,
+    "lifeExpectancy": "10"
+  },
+  {
+    "id": 6,
+    "name": "dfsdfad",
+    "energyLevel": "12",
+    "lifeExpectancy": "11"
+  },
+  {
+    "id": 7,
+    "name": "Alvaro 3o",
+    "energyLevel": 80,
+    "lifeExpectancy": "10000"
+  }
+]
